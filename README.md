@@ -23,7 +23,7 @@
 | Версия | Скачать | Размер | Требования |
 |--------|---------|--------|------------|
 | **Latest (v2.0)** | [![Download](https://img.shields.io/badge/Download-WhatLoll.Encoder.v2.0-green)](https://github.com/xachapyri-dev/WhatLoll-Encoder/releases/download/v2.0/WhatLoll.Encoder.v2.0.zip) | ~150 KB | Windows 7+ / .NET 4.6.2+ |
-| **Source Code** | [![Source](https://img.shields.io/badge/Source-GitHub-black)](https://github.com/yourusername/WhatLoll-Encoder) | - | Visual Studio 2022 |
+| **Source Code** | [![Source](https://img.shields.io/badge/Source-GitHub-black)](https://github.com/xachapyri-dev/WhatLoll-Encoder) | - | Visual Studio 2022 |
 
 </div>
 
@@ -44,8 +44,8 @@
 
 | Тип | Язык | Открытый код | Скачать | Скачать по команде |
 |-----|------|--------------|---------|--------------------|
-| DLL | C# | [Name](url) | [Name](url) | - |
-| JS | Java Script | [Name](url) | [Name](url) | - |
+| DLL | C# | [WhatLoll-Encoder-csharp](https://github.com/xachapyri-dev/WhatLoll-Encoder-csharp) | [WhatLoll-Encoder-csharp](https://github.com/xachapyri-dev/WhatLoll-Encoder-csharp/releases/latest) | ``` dotnet add package WhatLoll.Encoder ``` |
+| JS | Java Script | [WhatLoll-Encoder-JavaScript](https://github.com/xachapyri-dev/WhatLoll-Encoder-JavaScript) | [WhatLoll-Encoder-JavaScript](https://github.com/xachapyri-dev/WhatLoll-Encoder-JavaScript/releases/latest) | ``` <script src="https://cdn.jsdelivr.net/gh/xachapyri-dev/WhatLoll-Encoder-JavaScript@main/WhatLoll.Encoder/WhatLoll.Encoder.min.js"></script> ```  |
 | PY | Python | [Name](url) | [Name](url) | - |
 
 </div>
